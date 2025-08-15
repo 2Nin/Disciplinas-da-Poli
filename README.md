@@ -1,5 +1,5 @@
 # Disciplinas-da-Poli
-Repository containing a few of my works during my mechatronics engineering courses @ Poli-USP
+Repository containing a few of my works during my mechatronics engineering courses @ Poli-USP.
 A short summary of each discipline currently in the repository:
 
 - MAC2166 - Introdução à Computação: Introduction to general programming concepts in Python.
