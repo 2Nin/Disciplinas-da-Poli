@@ -1,5 +1,5 @@
 # Disciplinas-da-Poli
-![alt text]([http://url/to/img.png](https://www.poli.usp.br/wp-content/uploads/2020/08/Logo_Escola-Polite%CC%81cnica-Minerva-com-fundo.png))
+![alt text](https://www.poli.usp.br/wp-content/uploads/2020/08/Logo_Escola-Polite%CC%81cnica-Minerva-com-fundo.png)
 Repository containing a few of my works during my mechatronics engineering courses @ Poli-USP.
 A short summary of each discipline currently in the repository:
 
